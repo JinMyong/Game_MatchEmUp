@@ -1,0 +1,23 @@
+{
+    "android": {
+        "iap": {
+            "items": {
+                "unlock_res": {
+                    "type": "non_consumable", 
+                    "id": "com.hipposcape.matchmeup.unlockres"
+                }
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArx6e+mLhfBUP4zhbPYIvr7k51QXtq9aH5ogo8ouNI/8Z3j/+tVopiK+IiCyyyc0B0ZvrMprhlocyrj+k34T7SAAYc31D6pAe40g03JKSBtdWLz1hoi/AMRkNHshejBuUEuCCy/8yepNJKoe3DKOlQ3IigY/AIe2dwILCsjxNx9Yp+1Zy5UkC7ElFa6zvdeTQMu2NDydlBnldoULVje7nhUxybf+L7OWBpcODbLB660U0WCqNS9WATh2Xy04NxQA8k8QJW72ytMTl1PIsO2WwyrcNCp9OEJr+L5qJ+IosAimESOl7zhLNEibmAOWXakwFZZ5pxlF9NaWL2e4n7FZRewIDAQAB"
+        }
+    }, 
+    "ios": {
+        "iap": {
+            "items": {
+                "unlock_res": {
+                    "type": "non_consumable", 
+                    "id": "com.hipposcape.matchmeup.unlockres"
+                }
+            }
+        }
+    }
+}

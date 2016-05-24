@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green116\blue0;\red170\green13\blue145;\red196\green26\blue22;
+}
+\margl1440\margr1440\vieww18020\viewh6300\viewkind0
+\deftab529
+\pard\tx529\pardeftab529\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf0 \CocoaLigature0  JniMethodInfo t;\
+\cf2 //    if (JniHelper::getStaticMethodInfo(t\cf0 \
+\cf2 //                    , "com/bullseye/alifbatabullseye/AlifBaTaBullseye"\cf0 \
+\cf2 //                    , "sendemail"\cf0 \
+\cf2 //                    , "(Ljava/lang/String;)V"))\cf0 \
+\cf2 //    \{\cf0 \
+\cf2 //        jstring StringArg1 = t.env->NewStringUTF(emailtext->getCString());\cf0 \
+\cf2 //        t.env->CallStaticVoidMethod(t.classID, t.methodID, StringArg1);\cf0 \
+\cf2 //    \}\cf0 \
+    \cf3 if\cf0  (JniHelper::getStaticMethodInfo(t\
+                    , \cf4 "com/bullseye/alifbatabullseye/AlifBaTaBullseye"\cf0 \
+                    , \cf4 "appRate"\cf0 \
+                    , \cf4 "()V"\cf0 ))\
+    \{\
+        t.env->CallStaticVoidMethod(t.classID, t.methodID);\
+    \}\
+    \
+}
