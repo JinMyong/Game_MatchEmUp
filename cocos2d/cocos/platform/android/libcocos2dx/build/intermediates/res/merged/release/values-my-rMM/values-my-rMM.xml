@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/Volumes/Work/MatchEmUp/MachEmUp/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/exploded-aar/proj.android-studio/gps/unspecified/res/values-my-rMM/values-my-rMM.xml -->
+    <!-- From: file:/Volumes/Work/MatchEmUp/MatchEmUp/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/exploded-aar/proj.android-studio/gps/unspecified/res/values-my-rMM/values-my-rMM.xml -->
     <eat-comment/>
     <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"Android Wear app အတွက် <ns1:g id="APP_NAME">%1$s</ns1:g> သည် အဆင့်မြှင့်မွမ်းမံမှုတစ်ခု လိုအပ်၏။"</string>
     <string msgid="2453027084525739603" name="common_android_wear_update_text">"Android Wear app  အား အဆင့်မြှင့်မွမ်းမံထားခြင်းမရှိပါက <ns1:g id="APP_NAME">%1$s</ns1:g> သည် အလုပ်လုပ်မည် မဟုတ်ပါ။"</string>

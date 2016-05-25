@@ -12,4 +12,4 @@
     <item
         android:drawable="@drawable/common_google_signin_btn_icon_dark_normal" />
 </selector>
-<!-- From: file:/Volumes/Work/MatchEmUp/MachEmUp/cocos2d/cocos/platform/android/java/libs/gps/res/drawable/common_google_signin_btn_icon_dark.xml --><!-- From: file:/Volumes/Work/MatchEmUp/MachEmUp/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/exploded-aar/proj.android-studio/gps/unspecified/res/drawable/common_google_signin_btn_icon_dark.xml -->
+<!-- From: file:/Volumes/Work/MatchEmUp/MatchEmUp/cocos2d/cocos/platform/android/java/libs/gps/res/drawable/common_google_signin_btn_icon_dark.xml --><!-- From: file:/Volumes/Work/MatchEmUp/MatchEmUp/cocos2d/cocos/platform/android/libcocos2dx/build/intermediates/exploded-aar/proj.android-studio/gps/unspecified/res/drawable/common_google_signin_btn_icon_dark.xml -->

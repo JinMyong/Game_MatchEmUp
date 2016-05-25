@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Volumes/Work/MatchEmUp/MachEmUp/cocos2d/cocos/platform/android/java/src/com/enhance/gameservice/IGameTuningService.aidl
+ * Original file: /Volumes/Work/MatchEmUp/MatchEmUp/cocos2d/cocos/platform/android/java/src/com/enhance/gameservice/IGameTuningService.aidl
  */
 package com.enhance.gameservice;
 public interface IGameTuningService extends android.os.IInterface
