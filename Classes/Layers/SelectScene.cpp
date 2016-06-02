@@ -288,6 +288,7 @@ void SelectScene::onSuccess(const sdkbox::Product &p)
 void SelectScene::onFailure(const sdkbox::Product &p, const std::string &msg)
 {
     CCLOG("IAP >> Purchase Failed: %s", p.name.c_str());
+//    MessageBox(p.name.c_str(), "In App Purchase Error");
 }
 
 void SelectScene::onCanceled(const sdkbox::Product &p)
